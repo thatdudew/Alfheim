@@ -57,7 +57,7 @@ public final class DeduplicatedLongQueue {
     /**
      * Clears the deduplication set.
      */
-   public void clear() {
+   public void clearset() {
     set.clear();
     queue.clear();
 }
